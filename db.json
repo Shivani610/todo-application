@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "task": "learn redux",
+      "desc": "redux is learn to easy",
+      "priority": "high",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "task": "react js",
+      "desc": "react is learn to easy",
+      "priority": "high",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "task": "learn redux",
+      "desc": "redux is learn to easy",
+      "priority": "high",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
